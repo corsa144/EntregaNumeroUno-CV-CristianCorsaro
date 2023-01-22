@@ -1,0 +1,12 @@
+#cabecera{
+    background-color: royalblue;
+}
+
+footer{
+    background-image: url("brujula.png");
+    background-size: 100px;
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    min-height: 100px;
+    background-color: royalblue;
+}
