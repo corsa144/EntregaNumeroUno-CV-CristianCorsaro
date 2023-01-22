@@ -2,11 +2,25 @@
     background-color: royalblue;
 }
 
+#autor{
+    color: darkgrey;
+}
+/*
+    flex: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+    permite que los elementos esten distribuidos de manera flexible
+    flex-direction: column hace que los elementos esten dispuestos de manera vertical
+    y column-reverse: hace que los elementos esten invertidos
+*/
 footer{
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
     background-image: url("brujula.png");
     background-size: 100px;
     background-position: bottom right;
     background-repeat: no-repeat;
     min-height: 100px;
     background-color: royalblue;
+    display: flex;
+    flex-direction: column-reverse;
 }
