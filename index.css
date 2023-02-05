@@ -1,9 +1,14 @@
-#cabecera{
+header{
     background-color: royalblue;
+    top: 0px;
 }
 
 #autor{
     color: darkgrey;
+}
+
+main{
+    margin-bottom: 80px;
 }
 /*
     flex: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
@@ -16,11 +21,12 @@ footer{
     position: fixed;
     width: 100%;
     background-image: url("brujula.png");
-    background-size: 100px;
+    background-size: 78px;
     background-position: bottom right;
     background-repeat: no-repeat;
-    min-height: 100px;
+    min-height: 80px;
     background-color: royalblue;
     display: flex;
     flex-direction: column-reverse;
+    z-index: 999;
 }
