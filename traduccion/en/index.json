@@ -1,0 +1,41 @@
+
+{
+    "cabecera": { 
+        "DNI": "<strong>ID:</strong> 38491955", 
+        "fechaDeNacimiento:": "<strong>Birthdate:</strong> 08/10/92",
+        "lugarDeResidencia:": "<strong>Location:</strong> Buenos Aires City, Argentina"
+    },
+
+    "acordeonUno": {
+        "titulo": "Contact information",
+        "correoElectronico": "<strong>Email:</strong> r.perez955@gmail.com", 
+        "telefonoCelular": "<strong>Mobile phone:</strong> 1135187496"
+    },
+
+    "acordeonDos": {
+        "titulo": "Work activity",
+        "empresaUno": "<strong>Company: InterComputing <br>Position: Junior Programmer <br>Period: March 2020 - Today</strong>", 
+        "empresaDos": "Company: Coto <br>Position: Restocker <br>Period: January 2015 - November 2019"},
+
+    "acordeonTres":  {
+        "titulo": "Academic background",
+        "escuelaUno": "<strong>Computer systems engineering <br>Buenos Aires University<br> February 2020 - Today</strong>", 
+        "escuelaDos": "Higher Gastronomy Technician <br>Argentine Institute of Gastronomy<br>August 2013 - December 2015"
+    },
+
+    "acordeonCuatro": {
+        "titulo": "Skills and languages",
+        "conocimientoUno": "<strong>Programming languages:</strong> JavaScript, HTML5, bootstrap and C.",
+        "conocimientoDos": "<strong>Office suite management:</strong> word and excel.",
+        "conocimientoTres": "<strong>Languages:</strong>Intermediate English."
+    },
+
+    "acordeonCinco": {
+        "titulo": "More about me",
+        "pasatiempo": "<strong>Hobbies: </strong>play drums and sing in a band."
+    },
+
+    "pies": {
+        "firma": "Resume and web page created by Cristian Corsaro"
+    }
+}

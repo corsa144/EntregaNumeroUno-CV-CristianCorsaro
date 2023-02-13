@@ -1,0 +1,42 @@
+
+{
+    "cabecera": { 
+        "DNI":  "<strong>DNI:</strong> 38491955", 
+        "fechaDeNacimiento": "<strong>Fecha de nacimiento:</strong> 10/08/92",
+        "lugarDeResidencia": "<strong>Lugar de residencia:</strong> Capital Federal, Argentina"
+    },
+
+    "acordeonUno": {
+        "titulo": "Datos de contacto",
+        "correoElectronico": "<strong>Correo electrónico:</strong> r.perez955@gmail.com", 
+        "telefonoCelular": "<strong>Teléfono celular:</strong> 1135187496"
+    },
+
+    "acordeonDos": {
+        "titulo": "Actividad laboral",
+        "empresaUno": "<strong>Empresa: InterComputing <br>Puesto: Programador junior <br>Período: Marzo 2020 - Actualidad</strong>", 
+        "empresaDos": "Empresa: Coto <br>Puesto: Repositor <br>Período: Enero 2015 - Noviembre 2019"
+    },
+
+    "acordeonTres":  {
+        "titulo": "Formacion academica",
+        "escuelaUno": "<strong>Ingeniería en sistemas informáticos <br>Universidad de Buenos Aires<br> Febrero 2020 - Actualidad</strong>", 
+        "escuelaDos": " Tecnicatura superior en gastronomía<br>Instituto Argentino de gastronomía<br>Agosto 2013 - Diciembre 2015"
+    },
+
+    "acordeonCuatro": {
+        "titulo": "Conocimientos e idiomas",
+        "conocimientoUno": "<strong>Lenguajes de programacion:</strong> JavaScript, HTML5, bootstrap y C.",
+        "conocimientoDos": "<strong>Manejo de paquete de office:</strong> word y excel.",
+        "conocimientoTres": "<strong>Idiomas:</strong> ingles intermedio."
+    },
+
+    "acordeonCinco": {
+        "titulo": "Mas sobre mi",
+        "pasatiempo": "<strong>Pasatiempos: </strong>tocar la batería y cantar en una banda."
+    },
+
+    "pies": {
+        "firma": "CV y página web creado por Cristian Corsaro"
+    }
+}
