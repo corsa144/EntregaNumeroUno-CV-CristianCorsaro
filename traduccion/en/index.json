@@ -2,8 +2,8 @@
 {
     "cabecera": { 
         "DNI": "<strong>ID:</strong> 38491955", 
-        "fechaDeNacimiento:": "<strong>Birthdate:</strong> 08/10/92",
-        "lugarDeResidencia:": "<strong>Location:</strong> Buenos Aires City, Argentina"
+        "fechaDeNacimiento": "<strong>Birthdate:</strong> 08/10/92",
+        "lugarDeResidencia": "<strong>Location:</strong> Buenos Aires City, Argentina"
     },
 
     "acordeonUno": {

@@ -1,6 +1,7 @@
 import jsonEs from "./traduccion/es/index.json" assert {type: 'json'};
 import jsonEn from "./traduccion/en/index.json" assert {type: 'json'};
 
+//funcion traducir: cambio el idioma en funcion de la seleccion del usuario
 let traducir = () => {
     let idioma = document.getElementById("languageButton").value;
     let jsonPath = jsonEs;
@@ -32,6 +33,7 @@ let traducir = () => {
     document.getElementById("pies-firma").innerHTML = jsonPath.pies.firma;
 };
 
+//La primera vez que entro a la pagina
 document.addEventListener("DOMContentLoaded", function(event) {
     //código a ejecutar cuando el DOM está listo para recibir acciones
     traducir(); 
@@ -39,6 +41,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 });
 
+//Cuando selecciono el idioma en el select
 document.getElementById("languageButton").addEventListener("change", function(event) {
     traducir();
 });
